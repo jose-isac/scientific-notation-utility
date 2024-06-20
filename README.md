@@ -6,7 +6,8 @@ This command line software converts a number to it's scientifc notation version.
 
 ## Compilling
 
-Make sure you have GCC installed then after you have downloaded the source code, run:
+Make sure you have GCC installed then after you have downloaded the source code, run:  
+    
     gcc main.c scfc_notation.c -o scfcnotation
 
 ## Contributing
