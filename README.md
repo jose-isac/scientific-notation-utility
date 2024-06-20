@@ -1,4 +1,4 @@
-# 🧪 Scientifc Notation Command Line Utility
+# 🧪 Scientific Notation Command Line Utility
 
 This command line software converts a number to it's scientifc notation version.
 
